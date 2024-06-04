@@ -1,0 +1,25 @@
+body{
+  align-content: center;
+  background-color: beige;
+}
+
+fieldset{
+  width:100px;
+  height: 150px;
+  align-content: justify;
+  
+}
+header{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+footer{
+  text-align: center;
+}
+span{
+  text-align: center;
+}
+
